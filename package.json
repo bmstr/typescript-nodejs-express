@@ -1,0 +1,24 @@
+{
+  "name": "typescript-nodejs-express",
+  "version": "1.0.0",
+  "description": "An Express Node.js server written in TypeScript",
+  "scripts": {
+    "build": "./node_modules/.bin/tsc",
+    "start": "npm run build && node dist/index.js",
+    "serve": "node dist/index.js"
+  },
+  "author": "Bjoern Strobach - @bmstr",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bmstr/typescript-nodejs-express"
+  },
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.0.35",
+    "@types/node": "^7.0.18",
+    "typescript": "^2.3.2"
+  }
+}
