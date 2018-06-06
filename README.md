@@ -9,12 +9,12 @@ Command | Description
 
 ## Development
 
-* Source hosted at [GitHub](https://github.com/bmstr/typescript-nodejs-express)
-* Report issues/Questions/Feature requests on [GitHub Issues](https://github.com/bmstr/typescript-nodejs-express/issues)
+* Source hosted at [GitHub](https://github.com/bstrobach/typescript-nodejs-express)
+* Report issues/Questions/Feature requests on [GitHub Issues](https://github.com/bstrobach/typescript-nodejs-express/issues)
 
 ## Contributing
 
-1. Fork it (https://github.com/bmstr/typescript-nodejs-express)
+1. Fork it (https://github.com/bstrobach/typescript-nodejs-express)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
