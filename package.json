@@ -7,11 +7,11 @@
     "start": "npm run build && node dist/index.js",
     "serve": "node dist/index.js"
   },
-  "author": "Bjoern Strobach - @bmstr",
+  "author": "Bjoern Strobach - @bstrobach",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bmstr/typescript-nodejs-express"
+    "url": "https://github.com/bstrobach/typescript-nodejs-express"
   },
   "dependencies": {
     "express": "^4.15.2"
